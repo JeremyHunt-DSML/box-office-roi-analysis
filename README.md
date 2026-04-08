@@ -1,9 +1,8 @@
-# box-office-roi-analysis
+# The Hollywood Box Office ROI Analysis 🎬
+
 [![View on nbviewer](https://img.shields.io/badge/Open_in-nbviewer-orange.svg)](https://nbviewer.org/github/JeremyHunt-DSML/box-office-roi-analysis/blob/main/hollywood_roi_analysis.ipynb)
 
 A data analytics project answering the core question: does a bigger budget equal a better movie? Built using Python, Pandas, SQL, and Seaborn.
-
-# The Hollywood Box Office ROI Analysis 🎬
 
 ## Project Overview
 This project is an end-to-end Data Engineering and Data Science ETL (Extract, Transform, Load) pipeline. It aims to answer the core financial question of the film industry: **Does spending more money on a movie guarantee better critical reception and higher box office returns?**
